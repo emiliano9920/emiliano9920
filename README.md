@@ -11,7 +11,7 @@ I have been in the world of software development for more than a year now and I 
 ```javascript
 const emiliano = {
   pronouns: "he" | "him",
-  code: [JavaScript, HTML, CSS, MariaDB, NodeJs],
+  code: [JavaScript, HTML, CSS, SQL, NodeJs],
   tools: [Express, Bootstrap, Git],
 }
 ```
