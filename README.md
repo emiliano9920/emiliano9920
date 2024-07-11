@@ -6,7 +6,7 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-I have been in the world of development for more than a year now and I keep surprising myself. I will continue to study and face new challenges.
+I have been in the world of development for more than a year and I keep surprising myself.
 
 ```javascript
 const emiliano = {
